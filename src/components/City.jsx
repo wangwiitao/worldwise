@@ -1,7 +1,7 @@
 /* eslint-disable no-unused-vars */
 /* eslint-disable react/prop-types */
 
-import { useParams } from "react-router-dom";
+import { useParams, useSearchParams } from "react-router-dom";
 import styles from "./City.module.css";
 
 const formatDate = (date) =>
@@ -13,6 +13,11 @@ const formatDate = (date) =>
 
 function City() {
   const x = useParams();
+  const [searchParams, setSearchParams] = useSearchParams();
+  const lat = searchParams.get("lat");
+  const lng = searchParams.get("lng");
+
+  console.log(setSearchParams);
   console.log(x);
   // TEMP DATA
   const currentCity = {
@@ -24,7 +29,14 @@ function City() {
 
   const { cityName, emoji, date, notes } = currentCity;
 
-  return <h1>city</h1>;
+  return (
+    <>
+      <h1>city</h1>
+      <p>
+        Position: {lat}, {lng}
+      </p>
+    </>
+  );
 }
 
 export default City;
