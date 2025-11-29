@@ -1,97 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": "17806751"
-    },
-    {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": "98443197"
-    },
-    {
-      "id": "fd92",
-      "cityName": "Lles de Cerdanya",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-05-15T07:50:03.136Z",
-      "notes": "",
-      "position": {
-        "lat": "42.39097802339459",
-        "lng": "1.6682707849597913"
-      }
-    },
-    {
-      "cityName": "Villatuerta",
-      "emoji": "🇪🇸",
-      "date": "2025-11-29T09:24:42.041Z",
-      "notes": "sdf ",
-      "position": {
-        "lat": "42.65012181368025",
-        "lng": "-1.9775390625000002"
-      },
-      "id": "o16mNx2"
-    },
-    {
-      "cityName": "Saint-Paul",
-      "emoji": "🇫🇷",
-      "date": "2025-11-29T09:25:11.516Z",
-      "notes": "",
-      "position": {
-        "lat": "45.767522962149904",
-        "lng": "1.40625"
-      },
-      "id": "Mququdq"
-    },
-    {
-      "cityName": "El Bayadh",
-      "emoji": "🇩🇿",
-      "date": "2025-11-29T09:25:32.841Z",
-      "notes": "",
-      "position": {
-        "lat": "33.7243396617476",
-        "lng": "1.1425781250000002"
-      },
-      "id": "6MBAM_7"
-    },
-    {
-      "cityName": "Tsabit",
-      "emoji": "🇩🇿",
-      "date": "2025-11-29T09:28:47.100Z",
-      "notes": "",
-      "position": {
-        "lat": "28.323724553546015",
-        "lng": "-0.5493164062500001"
-      },
-      "id": "Q0VUGOZ"
-    },
-    {
-      "cityName": "Gourrama",
-      "emoji": "🇲🇦",
-      "date": "2025-11-29T09:29:11.462Z",
-      "notes": "adsf",
-      "position": {
-        "lat": "32.41706632846282",
-        "lng": "-4.064941406250001"
-      },
-      "id": "YTs9aLR"
-    },
-    {
       "cityName": "Gourrama",
       "emoji": "🇲🇦",
       "date": "2025-11-29T09:29:34.337Z",
@@ -114,26 +23,15 @@
       "id": "KcbJF3a"
     },
     {
-      "cityName": "Brehan",
-      "emoji": "🇫🇷",
-      "date": "2025-11-29T13:21:32.851Z",
-      "notes": "fffff",
+      "cityName": "Farlete",
+      "emoji": "🇪🇸",
+      "date": "2025-11-29T15:28:16.488Z",
+      "notes": "",
       "position": {
-        "lat": "48.06339653776214",
-        "lng": "-2.7246093750000004"
+        "lat": "41.705728515237524",
+        "lng": "-0.5493164062500001"
       },
-      "id": "v7VpxpB"
-    },
-    {
-      "cityName": "Brehan",
-      "emoji": "🇫🇷",
-      "date": "2025-11-29T13:22:00.685Z",
-      "notes": "sdf",
-      "position": {
-        "lat": "48.06339653776214",
-        "lng": "-2.7246093750000004"
-      },
-      "id": "sFuSJes"
+      "id": "2I8ub1I"
     }
   ]
 }
